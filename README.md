@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Electron-31-47848f">
   <img src="https://img.shields.io/badge/React-18-61dafb">
   <img src="https://img.shields.io/badge/yt--dlp-bundled-ff0033">
+  <a href="https://github.com/cybergah/KEW-Windows/actions/workflows/build.yml"><img src="https://github.com/cybergah/KEW-Windows/actions/workflows/build.yml/badge.svg" alt="Build"></a>
 </p>
 
 <p align="center">

@@ -21,6 +21,8 @@
   <i>Ji aliyê <b>Cybergah Group</b> ve · <a href="https://cybergah.com">cybergah.com</a></i>
 </p>
 
+<p align="center"><a href="README.en.md"><b>🇬🇧 Read in English</b></a></p>
+
 ---
 
 ## 📖 Kew çi ye?
